@@ -12,4 +12,4 @@
 
 <br>
 
-<p align=center><img src="./pack.png"></img></p>
+<p align=center><img src="./pack.png" width=256></img></p>

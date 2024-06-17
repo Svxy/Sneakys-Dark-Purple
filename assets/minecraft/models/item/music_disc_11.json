@@ -1,0 +1,104 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/music_disc_twoonesavageseethereal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/music_disc_babytronemperoroftheuniverse"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/music_disc_bigkaybreezyxpologbookbagtwozero"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/music_disc_bigxthaplugbackonmybs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/music_disc_bigxthaplugmmhmm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/music_disc_blpkosherspecialk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/music_disc_gunnawhatsapp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/music_disc_juicewrlddrugs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/music_disc_juicewrldfeeling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/music_disc_juicewrldstayhigh"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/music_disc_juicewrldsyphilis"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/music_disc_khalilzodiackiller"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/music_disc_lilteccaamigo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/music_disc_lilteccaxjuicewrldransom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/music_disc_svarodaninezeromh"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/music_disc_youngnudyxtwoonesavagepeacheseggplants"
+        }
+    ]
+}

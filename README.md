@@ -13,13 +13,13 @@
 
 <br>
 
-<h5 align=center><b>Make sure you place the <u>"music-dp.zip"</u> archive into <u>".minecraft\saves\<your_world>\datapacks"</u></b></h5>
+<h5 align=center><b>Make sure you place the "music-dp.zip" archive into ".minecraft\saves\{your_world}datapacks"</b></h5>
 
 <br>
 
 <h3 align=center><b><a href="https://github.com/Svxy/Sneakys-Dark-Purple/releases/download/v1.1-1.20.1/Sneakys.Dark.Purple.v1.1-1.20.1.zip">Download</a> today!</b></h3>
 
-<br>
+<br><hr><br>
 
 <p align=center><b>Music Disc Songs:</b>
 

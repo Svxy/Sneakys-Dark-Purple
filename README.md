@@ -11,37 +11,41 @@
 
 <p align=center><img src="./pack.png" width=256></img></p>
 
-<h5 align=center><b>Make sure you place the "music-dp.zip" archive into ".minecraft\saves\<your_world>\datapacks</b></h5>
+<br>
+
+<h5 align=center><b>Make sure you place the <u>"music-dp.zip"</u> archive into <u>".minecraft\saves\<your_world>\datapacks"</u></b></h5>
 
 <br>
 
-<h4 align=center><b>Download today!</b></h4>
+<h3 align=center><b><a href="https://github.com/Svxy/Sneakys-Dark-Purple/releases/download/v1.1-1.20.1/Sneakys.Dark.Purple.v1.1-1.20.1.zip">Download</a> today!</b></h3>
 
 <br>
 
-<p align=center>Music Disc Songs:</p>
+<p align=center><b>Music Disc Songs:</b>
 
 
-1. 21 Savage - see the real
-2. BabyTron - Emperor of the Universe
-3. BigKayBreezy x Polo G - Bookbag 2.0
-4. BigXthaPlug - Back On My BS
-5. BigXthaPlug - Mmhmm
-6. BLP Kosher - Special K
-7. Gunna - whatsapp
-8. Juice WRLD - Drugs
-9. Juice WRLD - Feeling
-10. Juice WRLD - Stay High
-11. Juice WRLD - Syphilis
-12. Khalil - Zodiac Killer
-13. Lil Tecca - Amigo
-14. Lil Tecca x Juice WRLD - Ransom
-15. Svaroda - 90mh
-16. Young Nudy x 21 Savage - Peaches & Eggplants
+- 21 Savage - see the real
+- BabyTron - Emperor of the Universe
+- BigKayBreezy x Polo G - Bookbag 2.0
+- BigXthaPlug - Back On My BS
+- BigXthaPlug - Mmhmm
+- BLP Kosher - Special K
+- Gunna - whatsapp
+- Juice WRLD - Drugs
+- Juice WRLD - Feeling
+- Juice WRLD - Stay High
+- Juice WRLD - Syphilis
+- Khalil - Zodiac Killer
+- Lil Tecca - Amigo
+- Lil Tecca x Juice WRLD - Ransom
+- Svaroda - 90mh
+- Young Nudy x 21 Savage - Peaches & Eggplants
+
+</p>
 
 <br>
 
-<p align=center>Changes:</p>
+<p align=center><b>Changes:</b></p>
 
 > - v1.1 - Added custom sounds for jukebox music disc's (requires datapack)
 
